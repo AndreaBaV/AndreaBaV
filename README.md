@@ -19,25 +19,19 @@ Perfil orientado al desarrollo de soluciones tecnológicas con impacto operativo
 - Capacidad para llevar iniciativas de extremo a extremo: análisis, arquitectura, implementación y mejora continua.
 - Idiomas: Español (C2) e Inglés (C1).
 
-## Propuesta de Valor para Reclutadores
+## Propuesta de Valor
 
 - Diseño de software útil para operación, control y toma de decisiones.
 - Vinculación de necesidades de negocio con ejecución técnica clara y medible.
 - Integración de múltiples disciplinas: desarrollo, datos, UX, cloud y automatización.
 - Adaptación ágil a entornos de alto rendimiento y colaboración interfuncional.
 
-## Stack Tecnológico
+## Proyectos Personales y de Impacto
 
-**Lenguajes y frameworks**  
-Java (Spring Boot), Clojure, Python, Kotlin, R, C/C++, Matlab, PowerShell, Dart (Flutter), JavaScript, TypeScript, Rust (Tauri), PHP, Node.js, Next.js, Angular, Capacitor, HTML, SCSS.
-
-**Cloud, DevOps y plataforma**  
-Google Cloud, AWS, Docker, Kubernetes, Cloudflare Workers, GitHub Enterprise Server, GitHub Actions, Tomcat, Postman, N8N.
-
-**Datos y herramientas**  
-PostgreSQL, SQL, NoSQL, MariaDB, Power BI, Microsoft Project, Figma.
-
-## Proyectos con Impacto
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco-Proyectos%20con%20impacto-FFC8DD?style=for-the-badge" alt="Foco en proyectos"/>
+  <img src="https://img.shields.io/badge/Enfoque-Automatizaci%C3%B3n%20%7C%20Datos%20%7C%20Producto-BDE0FE?style=for-the-badge" alt="Enfoque de proyectos"/>
+</p>
 
 ### Huella Hídrica y Captación Pluvial
 
@@ -51,13 +45,43 @@ Sistema de registro, clasificación, intercepción y prevención de escenarios d
 
 ![Deteccion de colusion](./images/collusion.jpeg)
 
-## Próxima Línea de Proyectos
+### Línea Personal de Investigación Aplicada
 
 Línea activa de proyectos de **sensado con supercómputo para reducir el estrés hídrico en cultivos**, combinando:
 
 - Sensores para variables de suelo, clima y disponibilidad de agua.
 - Modelos predictivos de alta escala y simulación.
 - Optimización de estrategias de riego para resiliencia y productividad agrícola.
+
+## Stack Tecnológico (Tarjetas)
+
+### Lenguajes y Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=5C5470" alt="Java Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-Data%20%26%20Automation-CDE7FF?style=for-the-badge&logo=python&logoColor=3B4A6B" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-Frontend%20%26%20Backend-D5F5E3?style=for-the-badge&logo=typescript&logoColor=2F4858" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-Web-E2D7FF?style=for-the-badge&logo=javascript&logoColor=4B3F72" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-Product%20Interfaces-FFD6E0?style=for-the-badge&logo=nextdotjs&logoColor=3D314A" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-Enterprise%20Apps-D0E6A5?style=for-the-badge&logo=angular&logoColor=3E4C59" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-B5EAD7?style=for-the-badge&logo=flutter&logoColor=2C3E50" alt="Flutter"/>
+</p>
+
+### Cloud, DevOps y Plataforma
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Architecture-CDE7FF?style=for-the-badge&logo=googlecloud&logoColor=355070" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-FFE5B4?style=for-the-badge&logo=amazonaws&logoColor=5A3E2B" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-BDE0FE?style=for-the-badge&logo=docker&logoColor=2A4D69" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-E4C1F9?style=for-the-badge&logo=kubernetes&logoColor=4A4E69" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-D8F3DC?style=for-the-badge&logo=githubactions&logoColor=344E41" alt="GitHub Actions"/>
+</p>
+
+### Datos y Herramientas
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20Data-CAE9FF?style=for-the-badge&logo=postgresql&logoColor=1D3557" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F9E2AE?style=for-the-badge&logo=powerbi&logoColor=6C584C" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-FFCAD4?style=for-the-badge&logo=figma&logoColor=6D597A" alt="Figma"/>
+  <img src="https://img.shields.io/badge/SQL%20%7C%20NoSQL-Data%20Modeling-C7CEEA?style=for-the-badge&logo=databricks&logoColor=4A4E69" alt="SQL y NoSQL"/>
+</p>
 
 ## Experiencia Relevante
 
@@ -79,3 +103,5 @@ Línea activa de proyectos de **sensado con supercómputo para reducir el estré
 - Portafolio: [andrea-bahena-vs.vercel.app](https://andrea-bahena-vs.vercel.app)
 - GitHub: [github.com/AndreaBaV](https://github.com/AndreaBaV)
 - CV: [Google Drive](https://drive.google.com/drive/folders/1XfEV07m8izVe8wdCuGFt-myAuqD62kfS?usp=sharing)
+
+> "Time is the greatest treasure allowed to humanity..."
