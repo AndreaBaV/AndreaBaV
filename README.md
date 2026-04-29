@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Product%20%26%20Operations-0A66C2?style=for-the-badge" alt="Software Engineering and Operations"/>
-  <img src="https://img.shields.io/badge/Base-Toluca%2C%20Mexico-1F6FEB?style=for-the-badge" alt="Base Toluca Mexico"/>
-  <img src="https://img.shields.io/badge/Disponibilidad-Reubicaci%C3%B3n%20Internacional-2EA043?style=for-the-badge" alt="Disponibilidad de reubicacion"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-Product%20%26%20Operations-CDB4DB?style=for-the-badge" alt="Software Engineering and Operations"/>
+  <img src="https://img.shields.io/badge/Base-Toluca%2C%20Mexico-A2D2FF?style=for-the-badge" alt="Base Toluca Mexico"/>
+  <img src="https://img.shields.io/badge/Disponibilidad-Reubicaci%C3%B3n%20Internacional-BDE0FE?style=for-the-badge" alt="Disponibilidad de reubicacion"/>
 </p>
 
-Desarrollo soluciones tecnológicas con enfoque en impacto operativo real: automatización de procesos, integración de sistemas y productos digitales orientados a resultados de negocio.
+Perfil orientado al desarrollo de soluciones tecnológicas con impacto operativo real: automatización de procesos, integración de sistemas y productos digitales enfocados en resultados de negocio.
 
 ## Perfil Ejecutivo
 
@@ -21,10 +21,10 @@ Desarrollo soluciones tecnológicas con enfoque en impacto operativo real: autom
 
 ## Propuesta de Valor para Reclutadores
 
-- Construyo software útil para operación, control y toma de decisiones.
-- Conecto necesidades de negocio con ejecución técnica clara y medible.
-- Integro múltiples disciplinas: desarrollo, datos, UX, cloud y automatización.
-- Me adapto rápido a entornos de alto rendimiento y colaboración interfuncional.
+- Diseño de software útil para operación, control y toma de decisiones.
+- Vinculación de necesidades de negocio con ejecución técnica clara y medible.
+- Integración de múltiples disciplinas: desarrollo, datos, UX, cloud y automatización.
+- Adaptación ágil a entornos de alto rendimiento y colaboración interfuncional.
 
 ## Stack Tecnológico
 
@@ -43,17 +43,17 @@ PostgreSQL, SQL, NoSQL, MariaDB, Power BI, Microsoft Project, Figma.
 
 Proyecto para Bocar Fugra (Lerma) enfocado en predicción de precipitación, modelado de escenarios, análisis de riesgo e implementación para gestión hídrica.
 
-![Huella hidrica](https://raw.githubusercontent.com/AndreaBaV/andrea-bahena-vs/main/public/images/bocarMain.jpeg)
+![Huella hidrica](./images/bocarMain.jpeg)
 
 ### Detección de Colusión en Comercios
 
 Sistema de registro, clasificación, intercepción y prevención de escenarios de colusión con apoyo de tecnologías emergentes.
 
-![Deteccion de colusion](https://raw.githubusercontent.com/AndreaBaV/andrea-bahena-vs/main/public/images/collusion.jpeg)
+![Deteccion de colusion](./images/collusion.jpeg)
 
 ## Próxima Línea de Proyectos
 
-Estoy desarrollando proyectos de **sensado con supercómputo para reducir el estrés hídrico en cultivos**, combinando:
+Línea activa de proyectos de **sensado con supercómputo para reducir el estrés hídrico en cultivos**, combinando:
 
 - Sensores para variables de suelo, clima y disponibilidad de agua.
 - Modelos predictivos de alta escala y simulación.
@@ -69,8 +69,8 @@ Estoy desarrollando proyectos de **sensado con supercómputo para reducir el est
 ## Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreaBaV&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=1F2328&bg_color=FFFFFF" alt="GitHub stats de Andrea Bahena"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaV&layout=compact&hide_border=true&title_color=0A66C2&text_color=1F2328&bg_color=FFFFFF" alt="Lenguajes principales de Andrea Bahena"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreaBaV&show_icons=true&hide_border=true&title_color=CDB4DB&icon_color=FFC8DD&text_color=4A4E69&bg_color=FFF1F7" alt="GitHub stats de Andrea Bahena"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaV&layout=compact&hide_border=true&title_color=A2D2FF&text_color=4A4E69&bg_color=F8F4FF" alt="Lenguajes principales de Andrea Bahena"/>
 </p>
 
 ## Contacto

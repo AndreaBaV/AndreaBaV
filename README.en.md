@@ -1,16 +1,16 @@
 # Andrea Bahena Valdes
 
 <p align="center">
-  <a href="./GITHUB_PROFILE_README.md">Leer en Español</a>
+  <a href="./README.md">Leer en Español</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Product%20%26%20Operations-0A66C2?style=for-the-badge" alt="Software Engineering and Operations"/>
-  <img src="https://img.shields.io/badge/Base-Toluca%2C%20Mexico-1F6FEB?style=for-the-badge" alt="Based in Toluca Mexico"/>
-  <img src="https://img.shields.io/badge/Availability-International%20Relocation-2EA043?style=for-the-badge" alt="Open to relocation"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-Product%20%26%20Operations-CDB4DB?style=for-the-badge" alt="Software Engineering and Operations"/>
+  <img src="https://img.shields.io/badge/Base-Toluca%2C%20Mexico-A2D2FF?style=for-the-badge" alt="Based in Toluca Mexico"/>
+  <img src="https://img.shields.io/badge/Availability-International%20Relocation-BDE0FE?style=for-the-badge" alt="Open to relocation"/>
 </p>
 
-I build technology solutions with a strong operational focus: process automation, systems integration, and digital products that drive measurable business outcomes.
+Professional profile focused on building technology solutions with strong operational impact: process automation, systems integration, and digital products that drive measurable business outcomes.
 
 ## Executive Profile
 
@@ -21,10 +21,10 @@ I build technology solutions with a strong operational focus: process automation
 
 ## Value Proposition
 
-- I develop software that improves control, efficiency, and decision quality.
-- I connect business priorities with technically solid implementation.
-- I work across development, data, UX, cloud, and automation.
-- I adapt quickly to high-performance, cross-functional teams.
+- Development of software that improves control, efficiency, and decision quality.
+- Connection of business priorities with technically solid implementation.
+- Collaboration across development, data, UX, cloud, and automation.
+- Rapid adaptation to high-performance, cross-functional teams.
 
 ## Technology Stack
 
@@ -43,17 +43,17 @@ PostgreSQL, SQL, NoSQL, MariaDB, Power BI, Microsoft Project, Figma.
 
 Project for Bocar Fugra (Lerma) focused on rainfall prediction, scenario modeling, risk analysis, and implementation strategy for water management.
 
-![Water footprint project](https://raw.githubusercontent.com/AndreaBaV/andrea-bahena-vs/main/public/images/bocarMain.jpeg)
+![Water footprint project](./images/bocarMain.jpeg)
 
 ### Commerce Collusion Detection
 
 A system for scenario registration, classification, interception, and prevention using emerging technologies.
 
-![Collusion detection project](https://raw.githubusercontent.com/AndreaBaV/andrea-bahena-vs/main/public/images/collusion.jpeg)
+![Collusion detection project](./images/collusion.jpeg)
 
 ## Next Project Line
 
-I am developing projects in **sensing plus supercomputing to reduce water stress in crops**, combining:
+Current work includes projects in **sensing plus supercomputing to reduce water stress in crops**, combining:
 
 - Sensor data from soil, climate, and water availability variables.
 - Large-scale predictive modeling and simulation.
@@ -69,8 +69,8 @@ I am developing projects in **sensing plus supercomputing to reduce water stress
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreaBaV&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=1F2328&bg_color=FFFFFF" alt="Andrea Bahena GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaV&layout=compact&hide_border=true&title_color=0A66C2&text_color=1F2328&bg_color=FFFFFF" alt="Andrea Bahena top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreaBaV&show_icons=true&hide_border=true&title_color=CDB4DB&icon_color=FFC8DD&text_color=4A4E69&bg_color=FFF1F7" alt="Andrea Bahena GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaV&layout=compact&hide_border=true&title_color=A2D2FF&text_color=4A4E69&bg_color=F8F4FF" alt="Andrea Bahena top languages"/>
 </p>
 
 ## Contact
