@@ -37,13 +37,17 @@ Perfil orientado al desarrollo de soluciones tecnológicas con impacto operativo
 
 Proyecto para Bocar Fugra (Lerma) enfocado en predicción de precipitación, modelado de escenarios, análisis de riesgo e implementación para gestión hídrica.
 
-![Huella hidrica](./images/bocarMain.jpeg)
+<p>
+  <img src="./images/bocarMain.jpeg" width="100%" alt="Proyecto huella hidrica"/>
+</p>
 
 ### Detección de Colusión en Comercios
 
 Sistema de registro, clasificación, intercepción y prevención de escenarios de colusión con apoyo de tecnologías emergentes.
 
-![Deteccion de colusion](./images/collusion.jpeg)
+<p>
+  <img src="./images/collusion.jpeg" width="100%" alt="Proyecto deteccion de colusion"/>
+</p>
 
 ### Línea Personal de Investigación Aplicada
 
@@ -53,34 +57,50 @@ Línea activa de proyectos de **sensado con supercómputo para reducir el estré
 - Modelos predictivos de alta escala y simulación.
 - Optimización de estrategias de riego para resiliencia y productividad agrícola.
 
+### Collage Visual de Proyectos y Trayectoria
+
+<p align="center">
+  <img src="./images/me.JPG" width="45%" alt="Andrea Bahena"/>
+  <img src="./images/windsim.png" width="45%" alt="Simulacion y modelado"/>
+</p>
+<p align="center">
+  <img src="./images/EMET.jpg" width="30%" alt="Proyecto EMET"/>
+  <img src="./images/novus.png" width="30%" alt="Proyecto Novus"/>
+  <img src="./images/pass.png" width="30%" alt="Proyecto PASS"/>
+</p>
+<p align="center">
+  <img src="./images/expoingenieria2.jpg" width="60%" alt="Expo ingenieria"/>
+  <img src="./images/hackaton.jpg" width="35%" alt="Hackaton"/>
+</p>
+
 ## Stack Tecnológico (Tarjetas)
 
 ### Lenguajes y Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=5C5470" alt="Java Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-Data%20%26%20Automation-CDE7FF?style=for-the-badge&logo=python&logoColor=3B4A6B" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-Frontend%20%26%20Backend-D5F5E3?style=for-the-badge&logo=typescript&logoColor=2F4858" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-Web-E2D7FF?style=for-the-badge&logo=javascript&logoColor=4B3F72" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Next.js-Product%20Interfaces-FFD6E0?style=for-the-badge&logo=nextdotjs&logoColor=3D314A" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Angular-Enterprise%20Apps-D0E6A5?style=for-the-badge&logo=angular&logoColor=3E4C59" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-B5EAD7?style=for-the-badge&logo=flutter&logoColor=2C3E50" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=7B2CBF" alt="Java Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-Data%20%26%20Automation-CDE7FF?style=for-the-badge&logo=python&logoColor=1D4ED8" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-Frontend%20%26%20Backend-D5F5E3?style=for-the-badge&logo=typescript&logoColor=0F766E" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-Web-E2D7FF?style=for-the-badge&logo=javascript&logoColor=A21CAF" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-Product%20Interfaces-FFD6E0?style=for-the-badge&logo=nextdotjs&logoColor=DB2777" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-Enterprise%20Apps-D0E6A5?style=for-the-badge&logo=angular&logoColor=BE123C" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-B5EAD7?style=for-the-badge&logo=flutter&logoColor=0369A1" alt="Flutter"/>
 </p>
 
 ### Cloud, DevOps y Plataforma
 <p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-Architecture-CDE7FF?style=for-the-badge&logo=googlecloud&logoColor=355070" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-FFE5B4?style=for-the-badge&logo=amazonaws&logoColor=5A3E2B" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-BDE0FE?style=for-the-badge&logo=docker&logoColor=2A4D69" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-E4C1F9?style=for-the-badge&logo=kubernetes&logoColor=4A4E69" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-D8F3DC?style=for-the-badge&logo=githubactions&logoColor=344E41" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Architecture-CDE7FF?style=for-the-badge&logo=googlecloud&logoColor=2563EB" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-FFE5B4?style=for-the-badge&logo=amazonaws&logoColor=EA580C" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-BDE0FE?style=for-the-badge&logo=docker&logoColor=0284C7" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-E4C1F9?style=for-the-badge&logo=kubernetes&logoColor=7E22CE" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-D8F3DC?style=for-the-badge&logo=githubactions&logoColor=0891B2" alt="GitHub Actions"/>
 </p>
 
 ### Datos y Herramientas
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20Data-CAE9FF?style=for-the-badge&logo=postgresql&logoColor=1D3557" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F9E2AE?style=for-the-badge&logo=powerbi&logoColor=6C584C" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX-FFCAD4?style=for-the-badge&logo=figma&logoColor=6D597A" alt="Figma"/>
-  <img src="https://img.shields.io/badge/SQL%20%7C%20NoSQL-Data%20Modeling-C7CEEA?style=for-the-badge&logo=databricks&logoColor=4A4E69" alt="SQL y NoSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20Data-CAE9FF?style=for-the-badge&logo=postgresql&logoColor=1E40AF" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F9E2AE?style=for-the-badge&logo=powerbi&logoColor=D97706" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-FFCAD4?style=for-the-badge&logo=figma&logoColor=C026D3" alt="Figma"/>
+  <img src="https://img.shields.io/badge/SQL%20%7C%20NoSQL-Data%20Modeling-C7CEEA?style=for-the-badge&logo=databricks&logoColor=9333EA" alt="SQL y NoSQL"/>
 </p>
 
 ## Experiencia Relevante
@@ -89,13 +109,6 @@ Línea activa de proyectos de **sensado con supercómputo para reducir el estré
 - **Grupo Pissa (2025)**: Sistema de contratación e inducción con autenticación, revisión documental y arquitectura cloud.
 - **MotorLeads (2024)**: Diseño de UI y visualización de datos vía API en plataforma de venta automotriz.
 - **RedLingua (2022-2025)**: Soporte en gestión de proyectos EdTech, reclutamiento y desarrollo metodológico.
-
-## Actividad en GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreaBaV&show_icons=true&hide_border=true&title_color=CDB4DB&icon_color=FFC8DD&text_color=4A4E69&bg_color=FFF1F7" alt="GitHub stats de Andrea Bahena"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaV&layout=compact&hide_border=true&title_color=A2D2FF&text_color=4A4E69&bg_color=F8F4FF" alt="Lenguajes principales de Andrea Bahena"/>
-</p>
 
 ## Contacto
 
